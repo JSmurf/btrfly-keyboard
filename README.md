@@ -1,4 +1,4 @@
-# btrfly
+# btrfly 4x6
 
 ![render](right.png)
 
@@ -6,8 +6,9 @@
 
 more pictures in `pictures`
 
-This is a fork of the [Dactyl-ManuForm](https://github.com/tshort/dactyl-keyboard). The Dactyl-Manuform is a fork of the [Dactyl](https://github.com/adereth/dactyl-keyboard) with the thumb cluster from [ManuForm](https://github.com/jeffgran/ManuForm).
+This is a fork of the btrfly keyboard, which is a fork of the [Dactyl-ManuForm](https://github.com/tshort/dactyl-keyboard). The Dactyl-Manuform is a fork of the [Dactyl](https://github.com/adereth/dactyl-keyboard) with the thumb cluster from [ManuForm](https://github.com/jeffgran/ManuForm).
 
+This fork has been modified to create a 4x6 layout instead of the 4x5 that the original btrfly has. This has not been tested yet, but will be updated as any necessary adjustments are made.
 
 ## Wiring
 
